@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi everyone! 👋
+I'm Alexander "AlexandrLatn" Latyntsev, student of University of Tyumen (Information security of automated systems)
+I still beginner in this field. I learning C++, trying not to forget JS
+
+- 🔭 I’m currently working on "Find your UTMN" It'll be uploaded here soon
+- 🌱 I’m currently learning C++
+- 🤔 I’m looking for help with other students
+- 💬 Ask me about Russia, about Tyumen. I know how to work in Ren'Py and have experience in bot coding on Telegram
+- 📫 How to reach me: stud0000295854@utmn.ru\ Telegram: alexandrlatin
+- 😄 Pronouns: He\him
+- ⚡ Fun fact: I'm dumb))
 
 <!--
 **AlexandrLatin/AlexandrLatin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
