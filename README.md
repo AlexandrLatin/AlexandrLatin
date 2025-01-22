@@ -1,5 +1,5 @@
 ### Hi everyone! 👋
-I'm Alexander "AlexandrLatn" Latyntsev, student of University of Tyumen (Information security of automated systems)
+I'm Alexander "AlexandrLatin" Latyntsev, student of University of Tyumen (Information security of automated systems)
 I still beginner in this field. I learning C++, trying not to forget JS
 
 - 🔭 I’m currently working on "Find your UTMN" It'll be uploaded here soon
