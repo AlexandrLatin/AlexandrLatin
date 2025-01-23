@@ -1,11 +1,12 @@
 ### Hi everyone! 👋
-I'm Alexander "AlexandrLatin" Latyntsev, student of University of Tyumen (Information security of automated systems)
-I still beginner in this field. I learning C++, trying not to forget JS
+I'm Alexander "AlexandrLatin" Latyntsev, student of University of Tyumen (Informational security of automated systems)
+I still beginner in this field. 
 
-- 🔭 I’m currently working on "Find your UTMN" It'll be uploaded here soon
+- 🔭 I’m currently working on CTF tasks and learning info-sec in general
 - 🌱 I’m currently learning C++
+- 🚩 CTF competencies: OSINT, Stegano, Crypto \\ Learning Crypro, Forensic and Pentesting
 - 🤔 I’m looking for help with other students
-- 💬 Ask me about Russia, about Tyumen. I know how to work in Ren'Py and have experience in bot coding on Telegram
+- 💬 Ask me about Russia, about Tyumen. I know how to work in Ren'Py and have experience in Telegram-bot coding on Telegram
 - 📫 How to reach me: stud0000295854@utmn.ru\ Telegram: alexandrlatin
 - 😄 Pronouns: He\him
 - ⚡ Fun fact: I'm dumb))
