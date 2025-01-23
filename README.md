@@ -4,7 +4,7 @@ I still beginner in this field.
 
 - 🔭 I’m currently working on CTF tasks and learning info-sec in general
 - 🌱 I’m currently learning C++
-- 🚩 CTF competencies: OSINT, Stegano, Crypto \\ Learning Crypro, Forensic and Pentesting
+- 🚩 CTF competencies: OSINT, Stegano, Crypto | *Learning:* Crypro, Forensic and Pentesting
 - 🤔 I’m looking for help with other students
 - 💬 Ask me about Russia, about Tyumen. I know how to work in Ren'Py and have experience in Telegram-bot coding on Telegram
 - 📫 How to reach me: stud0000295854@utmn.ru\ Telegram: alexandrlatin
