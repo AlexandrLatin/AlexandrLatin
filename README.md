@@ -1,5 +1,5 @@
 ### Hi everyone! 👋
-I'm Alexander "AlexandrLatin" Latyntsev, student of University of Tyumen (Informational security of automated systems)
+I'm Alexander "AlexandrLatin" Latyntsev, student of the University of Tyumen (Informational security)
 I still beginner in this field. 
 
 - 🔭 I’m currently working on CTF tasks and learning info-sec in general
