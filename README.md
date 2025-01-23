@@ -6,7 +6,7 @@ I still beginner in this field.
 - 🌱 I’m currently learning C++
 - 🚩 CTF competencies: OSINT, Stegano, Crypto | *Learning:* Crypro, Forensic and Pentesting
 - 🤔 I’m looking for help with other students
-- 💬 Ask me about Russia, about Tyumen. I know how to work in Ren'Py and have experience in Telegram-bot coding on Telegram
+- 💬 Ask me about Russia, about Tyumen. I know how to work in Ren'Py and have experience in Telegram-bot coding
 - 📫 How to reach me: stud0000295854@utmn.ru\ Telegram: alexandrlatin
 - 😄 Pronouns: He\him
 - ⚡ Fun fact: I'm dumb))
